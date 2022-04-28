@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/out/production/prog3_beleg/
+/out/test/prog3_beleg/

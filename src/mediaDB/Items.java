@@ -1,0 +1,5 @@
+package mediaDB;
+
+public enum Items {
+    INTERACTIVEVIDEO , LICENSEDAUDIO , LICENSEDVIDEO, LICENSEDAUDIOVIDEO;
+}

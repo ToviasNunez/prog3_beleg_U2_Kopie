@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prog3_beleg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prog3_beleg_jar</output-path>
+    <root id="archive" name="prog3_beleg.jar">
+      <element id="module-output" name="prog3_beleg" />
+    </root>
+  </artifact>
+</component>

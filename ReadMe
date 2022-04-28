@@ -1,0 +1,7 @@
+
+
+In the logc folder  was implemented the Interface.
+Client class , it is responsible for to create Item (InteractiveVideos/LicensedAudios/LicensedVideos/LicensedAudioVideos)
+Client also add  items to the the list or virtual local with a capacity for 10 items.
+Client remove items from the list or update also them.
+Client can print the list from the Items and information that identified them.
